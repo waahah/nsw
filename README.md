@@ -2,6 +2,7 @@
 The node crawler
 
 ### Build with
+>The Node environment must be installed on the native computer
 - `git clone https://github.com/waahah/nsw.git`
 - `cd nsw`
 - install dependencies
