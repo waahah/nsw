@@ -44,7 +44,7 @@ async function downloadFile(data) {
     const item = data[index]
 
     // Path at which image will get downloaded
-    const filePath = `D:/axios`
+    const filePath = `${__dirname}/image`
 
     await download(item.wp, filePath, {
       filename: item.id + '.jpeg',
