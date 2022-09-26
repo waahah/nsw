@@ -1,2 +1,2 @@
-*.js linguist-language=react
-*.json linguist-language=react
+*.js linguist-language=React
+*.json linguist-language=React
