@@ -1,5 +1,5 @@
 # *nsw*
-The node crawler
+Node crawls the wallpaper
 
 ### Build with
 >The Node environment must be installed on the native computer
