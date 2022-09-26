@@ -1,2 +1,2 @@
-*.js linguist-language=Typescript;
-*.json linguist-language=Typescript;
+*.js linguist-language=vue
+*.json linguist-language=node
