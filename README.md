@@ -6,7 +6,7 @@ The node crawler
 - `cd nsw`
 - install dependencies
 ```node
-npm install node-downloader-helper
+npm init -y && npm i axios cheerio
 ```
 ```node
 npm install download
