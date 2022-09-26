@@ -1,2 +1,2 @@
 *.js linguist-language=react
-*.json linguist-language=vue
+*.json linguist-language=react
