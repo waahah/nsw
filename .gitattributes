@@ -1,1 +1,2 @@
-* linguist-language=java;
+*.js linguist-language=Java;
+*.json linguist-language=Typescript;
