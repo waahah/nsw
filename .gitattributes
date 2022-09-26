@@ -1,2 +1,2 @@
-*.js linguist-language=Java;
+*.js linguist-language=Typescript;
 *.json linguist-language=Typescript;
